@@ -1,0 +1,23 @@
+.tab-content {
+    padding: 20px;
+}
+.A-green {
+    width: 100px;
+    height: 100px;
+    -webkit-border-radius: 150px;
+    -webkit-box-shadow: 0px 8px #3E7800, 0px 15px 10px #959595;
+    background-color: #AAD646;
+    text-align: -webkit-center;
+}
+
+.A-green span {
+    font-size: 63px;
+    font-weight: 600;
+    text-shadow: 0px 3px 3px #3E7800;
+}
+
+#gradient {
+    width: 300px;
+    height: 300px;
+    background: -webkit-linear-gradient(180deg, rgb(0, 0, 0) -16%, rgb(116, 255, 0) 57%, rgb(237,239,1) 76%,rgb(0,0,0) 103%);
+}
